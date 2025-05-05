@@ -12,7 +12,13 @@ Time spent: **3** hours spent in total
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-<div style="position: relative; padding-bottom: 217.33870967741936%; height: 0;"><iframe src="https://www.loom.com/embed/6df0f64abe1a402685af9259392bde91?sid=642842e2-33e9-4c9f-b9ea-962090190389" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/6df0f64abe1a402685af9259392bde91">
+    </a>
+    <a href="https://www.loom.com/share/6df0f64abe1a402685af9259392bde91">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6df0f64abe1a402685af9259392bde91-e18fe89b08c0a83f-full-play.gif">
+    </a>
+  </div>
 
 
 ## App Brainstorming
