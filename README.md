@@ -31,7 +31,7 @@ Some mobile apps that inspire me are:
 
 ### Airmeet
 - Multi-Room Experience: Enables seamless switching between breakout rooms, making virtual events feel like real-world gatherings.  
-- NetworkingSpaces: Offers dedicated lounges for informal chats and spontaneous conversations during events.  
+- Networking Spaces: Offers dedicated lounges for informal chats and spontaneous conversations during events.  
 - Stage Management: Provides structured main stages and backstage access for speakers, enhancing professional coordination.  
 - Interactive Sessions: Incorporates live polls, Q&A, and reactions to keep the audience engaged.  
 
