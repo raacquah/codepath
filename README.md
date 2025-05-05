@@ -36,9 +36,9 @@ Some mobile apps that inspire me are:
 - Interactive Sessions: Incorporates live polls, Q&A, and reactions to keep the audience engaged.  
 
 ### Kahoot
-- GamifiedLearning: Makes education engaging through points, badges, and live competitive quizzes.  
-- ImmediateFeedback: Delivers real-time scoring and leaderboard updates to reinforce learning progress.  
-- InsightfulAnalytics: Provides detailed reports for instructors to track learner performance and adjust instruction.  
+- Gamified Learning: Makes education engaging through points, badges, and live competitive quizzes.  
+- Immediate Feedback: Delivers real-time scoring and leaderboard updates to reinforce learning progress.  
+- Insightful Analytics: Provides detailed reports for instructors to track learner performance and adjust instruction.  
 
 ### App Idea
 ### Simply Learn
